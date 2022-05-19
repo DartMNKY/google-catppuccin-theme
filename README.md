@@ -6,12 +6,6 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/DartMNKY/google-catppuccin-theme/stargazers"><img src="https://img.shields.io/github/stars/DartMNKY/google-catppuccin-theme?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship"></a>
-    <a href="https://github.com/DartMNKY/google-catppuccin-theme/issues"><img src="https://img.shields.io/github/issues/DartMNKY/google-catppuccin-theme?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
-    <a href="https://github.com/DartMNKY/google-catppuccin-theme/contributors"><img src="https://img.shields.io/github/contributors/DartMNKY/google-catppuccin-theme?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
-</p>
-
-<p align="center">
   <img src="https://github.com/DartMNKY/google-catppuccin-theme/blob/7573997cd4ea22e359f35c75cedf38ca1c26e2b1/assets/Screenshot%20from%202022-05-19%2023-45-49.png"/>
 </p>
 
