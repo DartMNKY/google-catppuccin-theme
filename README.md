@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://github.com/DartMNKY/google-catppuccin-theme/blob/7573997cd4ea22e359f35c75cedf38ca1c26e2b1/assets/Screenshot%20from%202022-05-19%2023-45-49.png"/>
+  <img src="https://github.com/DartMNKY/google-catppuccin-theme/raw/6f84e39df4d05c8898e80035650fcf9668fe926b/assets/catppuccin_google.png"/>
 </p>
 
 ## Usage
