@@ -17,8 +17,8 @@
 
 ## Usage
 
-1. Install the Stylus extension on your browser of choice
-2. Install the theme
+1. Install the Stylus extension on your browser of choice.
+2. Install the theme by [clicking here.](https://github.com/DartMNKY/google-catppuccin-theme/google-catppuccin.user.css)
 
 ## 🙋 FAQ (optional)
 
