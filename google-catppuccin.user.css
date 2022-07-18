@@ -18,11 +18,89 @@ background: #1E1E2E;
 .s8GCU {
     background: #1E1E2E;
 }
+#tw-target {
+    background-color: #1A1826;
+    border-radius: 8px;
+}
+.hhB0V {
+    color: #a6e3a1	;
+}
+.KwU3F {
+    color: #a6e3a1;
+}
+.AaVjTc a:link {
+    color: #89b4fa	;
+}
+.j1iyq {
+    border: 1px solid #302D41;
+}
+.tw-bilingual-marked {
+    border-left: 3px solid #a6e3a1	;
+}
+.xSQxL {
+    color: #a6e3a1	;
+}
+.DFDLnc {
+    border-bottom: 1px solid #302D41;
+}
+.KFFQ0c .YfftMc, .KFFQ0c .YfftMc span, .KFFQ0c .YfftMc div, .KFFQ0c .YfftMc a {
+    color: #a6adc8	;
+}
+.oySJpc {
+    border-top: 1px solid #302D41;
+}
+.b2hzT {
+    border-bottom: 1px solid #302D41;
+}
+#swml {
+    border-left: 1px solid #302D41;
+}
+.aNytqb .rKnmn {
+    border-top: 1px solid #302D41;
+}
+.RzdJxc {
+    border-top: 1px solid #302D41;
+}
 .minidiv .sfbg {
     background: #1E1E2E;
 }
+.fbar p, .fbar a {
+    color: #A6ADC8;
+}
+.b0KoTc {
+    color: #A6ADC8;
+}
+.dfB0uf {
+    color: #A6ADC8;
+}
+.unknown_loc {
+    background: #A6ADC8;
+}
+.HskPDe {
+    background-color: #1E1E2E;
+}
+.XKnPEd {
+    background-color: #1E1E2E;
+    border-bottom: 1px solid #302D41;
+}
+.aHd5n {
+    border-top: 1px solid #302D41;
+}
+
+.FAl3Ic {
+    background-color: #1A1826;
+    border: 1px solid rgba(255,255,255,0);
+}
+.ZkkK1e[selected] {
+    background: #a6e3a1;
+    border-color: #a6e3a1;
+    color: #202124;
+}
 .Lj9fsd {
     background: #1E1E2E;
+}
+.Ww4FFb {
+    background-color: #1e1e2e;
 }
 .o6juZc {
     background: #1A1826;
@@ -43,12 +121,72 @@ background: #1E1E2E;
     border-color: rgba(52, 53, 69, 0);
 }
 .minidiv .RNNXgb {
-    border-radius: 5px;
+    border-radius: 10px;
     background: #1A1826;
     border: 1px solid rgba(52, 53, 69, 0);
 }
+.GLcBOb {
+    border-bottom: 1px solid #303446;
+}
 .zgAlFc {
     color: #E8A2AF;
+}
+.I6TXqe {
+    background: #1A1826;
+    border-radius: 8px;
+    padding: 0 0 16px 0;
+}
+.dw-sb-cont {
+    background: #1A1826;
+    border-radius: 8px;
+}
+.dw-sb-cont .dw-sbi {
+    color: #bdc1c6;
+    border: 1px solid #303446;
+    background: #1A1826;
+}
+.dw-sb-cont .dw-sb-btn {
+    border: 1px solid #303446;
+    background: #1A1826;
+}
+.TQc1id .I6TXqe {
+    border: 1px transparent;
+}
+.BYb9Nc {
+    background-color: #1A1826;
+    border: 1px solid #303446;
+}
+.cO53qb {
+    color: #80868b !important;
+    cursor: default;
+    background-color: #1A1826;
+    border: 1px transparent;
+}
+.nm6nmc.l0jSyf.kpQuGf {
+    border-top: 1px solid #303446;
+}
+.MR2UAc {
+    background-color: #1A1826;
+    border: 1px solid #303446;
+}
+.wwfboe {
+    padding: 0 16px;
+    border-top: 1px solid #303446;
+}
+.FalWJb {
+    background: #1e1e2e;
+}
+.YeThId {
+    border-top: 1px solid #303446;
+}
+.akqY6 {
+    background: #303446;
+    height: 1px;
+    width: 100%;
+}
+.U3A9Ac {
+    background-color: #1e1e2e;
+    color: #ED8796;
 }
 .ZZ7G7b {
     border-radius: 8px;
@@ -98,8 +236,20 @@ hr {
 .RNNXgb {
     background: #1A1826;
     border: 1px solid transparent;
-    box-shadow: 0 1px 3px rgb(23 23 23 / 24%);
-    border-radius: 24px;
+    box-shadow: 0 1px 1px #0E0D15;
+    border-radius: 10px;
+}
+.aajZCb {
+    background: #1a1826;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0 1px 1px 0 #0E0D15;
+}
+.emcav .RNNXgb {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    box-shadow: 0 4px 12px rgb(23 23 23 / 90%);
+    background: #1a1826;
+    border-color: rgba(223,225,229,0);
 }
 .ZkkK1e {
     background: #1A1826;
@@ -131,9 +281,13 @@ hr {
 }
 .dG2XIf {
     box-shadow: none;
-    background: #1A1826;
+    background: #1E1E2E;
     border: 1px transparent;
     border-radius: 8px;
+}
+.mQo3nc {
+    background-color: #1A1826;
+    color: #C8AEA9;
 }
 #rhs .dG2XIf {
     border: 1px transparent;
